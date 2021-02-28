@@ -6,11 +6,20 @@
 }
 .block {
 	border: 5px blue solid;
+	background: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
 }
-.block  .date {
+.block .date {
 	border: 5px purple solid;
 }
 
 body {
+	background: url(images/bg.jpg);
+
+}
+.container {
 	border: 5px green solid;
+	margin: 0 10%;
+	background: white;
 }
