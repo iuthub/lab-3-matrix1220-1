@@ -1,5 +1,6 @@
 .header {
 	border: 5px red solid;
+	text-align: right;
 }
 .header > .description {
 	border: 5px orange solid;
@@ -9,7 +10,12 @@
 	background: #E8FBFB;
 	padding: 5px;
 	margin-top: 10px;
+	overflow: hidden;
 }
+.block img {
+	float: right;
+}
+
 .block .date {
 	border: 5px purple solid;
 }
