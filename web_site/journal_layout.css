@@ -1,0 +1,16 @@
+.header {
+	border: 5px red solid;
+}
+.header > .description {
+	border: 5px orange solid;
+}
+.block {
+	border: 5px blue solid;
+}
+.block  .date {
+	border: 5px purple solid;
+}
+
+body {
+	border: 5px green solid;
+}
