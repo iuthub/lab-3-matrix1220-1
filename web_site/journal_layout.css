@@ -11,6 +11,9 @@
 	padding: 5px;
 	margin-top: 10px;
 	overflow: hidden;
+	width:75%;
+	float: right;
+	box-sizing: border-box;
 }
 .block img {
 	float: right;
@@ -28,4 +31,13 @@ body {
 	border: 10px white solid;
 	margin: 0 10%;
 	background: white;
+	overflow: hidden;
+}
+.left {
+	background-color: #E8FBFB;
+	border: 5px #D8EBEB solid;
+	float: left;
+	width:24%;
+	box-sizing: border-box;
+	margin-top: 10px;
 }
